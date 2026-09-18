@@ -1,0 +1,38 @@
+/* 1. SAYFA SIFIRLAMA (Gereksiz boşlukları siler) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 2. GENEL ARKA PLAN VE YAZI TİPİ */
+body {
+    background-color: #aae5e9;     /* Gözü yormayan hafif gri-yeşil tonu */
+    color: #333333; /* Okunması kolay koyu gri yazı rengi */
+    line-height: 1.8;
+}
+
+/* 3. ANA BAŞLIK AYARI */
+h1 {
+    color: #e65100; /* Küresel ısınmayı anlatan sıcak bir turuncu/kırmızı */
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* 4. PARAGRAF AYARLARI */
+p {
+    max-width: 800px;
+    margin: 0 auto 20px auto; /* Yazıları sayfada ortalar */
+    padding: 0 20px;
+    font-size: 18px;
+}
+
+
+.sayfa-resmi {
+    width: 30%;   /* Bulunduğu alanın %30'u kadar yer kaplar */
+    height: auto; /* Oranı korur */
+    margin: 20px auto;   /* Resmi bulunduğu yerde ortalar */
+}
+
