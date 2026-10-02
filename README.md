@@ -73,7 +73,8 @@ Bir HTML sayfası etiketlerden oluşur. İşte en önemli olanlardan bazıları:
 
 HTML kodunun temeli bu olmalıdır!
 
-
+Proje nasıl çalışır?
+Projeyi yaparken herhangi bir import kullanmadım. Bu yüzden projeyi kullanmak için html ve css kullanmak yeterlidir.
 
 
 
